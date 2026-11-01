@@ -8,5 +8,12 @@
       "download_url": "https://github.com/nathanyruma2-droid/KENMODZ/raw/refs/heads/main/libKIELHAX_CRACKED_REMNANT.so",
       "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
     }
+  {
+      "name": "KENMODZ",
+      "status": "ONLINE",
+      "lib_name": "libOwlAura.so",
+      "download_url": "https://yunaspannel.x10.mx/Farlight/libOwlAura.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    }
   ]
 }
