@@ -1,0 +1,12 @@
+{
+  "menu_title": "SYSTEM SELECT",
+  "systems": [
+    {
+      "name": "LIB 1{KIELHAX}",
+      "status": "ONLINE",
+      "lib_name": "libKIELHAX_CRACKED_REMNANT.so",
+      "download_url": "https://github.com/nathanyruma2-droid/KENMODZ/raw/refs/heads/main/libKIELHAX_CRACKED_REMNANT.so",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity"
+    }
+  ]
+}
